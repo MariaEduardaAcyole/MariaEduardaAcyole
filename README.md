@@ -2,13 +2,12 @@
 #### Duda Acyole, se preferir
 
 
-- 🔭 Estou trabalhando no meu TCC [SPACE  ](https://www.linkedin.com/in/seu-perfil)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🔭 Estou trabalhando no meu TCC [SPACEQUEST](https://www.linkedin.com/in/seu-perfil)
+- 🌱 Estou aprendendo  NODE.js | SQL | Express.js 
+- ⚡ Fun fact: Amo livros e tecnologias criativas
+  
+- 💬 Fale comigo! 
+  - Sinta-se à vontade para me contatar para qualquer colaboração, oportunidade ou apenas para bater um papo sobre tecnologia!
 
 ### 🌐 Conecte-se Comigo
 
