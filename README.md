@@ -3,7 +3,7 @@
  
 - 🔭 Estou trabalhando no meu TCC [SPACEQUEST](https://www.linkedin.com/in/seu-perfil)
 - 🌱 Estou aprendendo  NODE.js | SQL | Express.js 
-- ⚡ Fun fact: Amo livros e tecnologias criativas
+- ⚡ Um fato: Amo livros e tecnologias criativas
 
 ### 💻 Linguagens e Tecnologias
 
