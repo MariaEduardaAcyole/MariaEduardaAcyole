@@ -19,7 +19,6 @@
 - 💬 Fale comigo! 
   - Sinta-se à vontade para me contatar para qualquer colaboração, oportunidade ou apenas para bater um papo sobre tecnologia!
 
-<br>
 
 ### 🌐 Conecte-se Comigo
 <br>
