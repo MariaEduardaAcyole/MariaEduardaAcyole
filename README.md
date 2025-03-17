@@ -1,7 +1,7 @@
 ## Oiie Eu sou a Maria Eduarda Acyole 👋
 #### Duda Acyole, se preferir
  
-- 🔭 Estou trabalhando no meu TCC [SPACEQUEST](https://www.linkedin.com/in/seu-perfil)
+- 🩷 Sou graduando em Engenharia de Software na FIAP
 - 🌱 Estou aprendendo  NODE.js | SQL | Express.js 
 - ⚡ Um fato: Amo livros e tecnologias criativas
 
