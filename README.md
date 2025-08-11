@@ -2,7 +2,7 @@
 #### Duda Acyole, se preferir
  
 - 🩷 Estou graduando em Engenharia de Software na FIAP
-- 🌱 Estou aprendendo  NODE.js | SQL | Express.js 
+- 🌱 Estou aprendendo   Python | SQL | NODE.js| Express.js 
 - ⚡ Um fato: Amo livros e tecnologias criativas
 
 ### 💻 Linguagens e Tecnologias
